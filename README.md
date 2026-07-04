@@ -1,27 +1,55 @@
 # 🌸 AI Period Tracker
 
-An AI-powered menstrual health tracking web application built using React that helps users track symptoms, visualize their menstrual cycle, and receive personalized health insights.
+A modern menstrual health tracking web application built with **React.js** that helps users monitor their menstrual cycle, log daily symptoms, and receive personalized health insights through an intuitive dashboard.
 
-## 🚀 Live Demo
+---
 
-🔗 **Live Website:** YOUR_VERCEL_LINK_HERE
+## 🔗 Live Demo
+
+🌐 **Website:** [YOUR_VERCEL_LINK_HERE](https://vercel.com/sanyukta1/ai_perio_tracker/pA67S8dVdxPd1RdVoDaHiYyTbYQC)
 
 ## 💻 GitHub Repository
 
-🔗 https://github.com/sanyuktaraut09/AI-Period-tracker
+https://github.com/sanyuktaraut09/AI-Period-tracker
 
 ---
 
 # ✨ Features
 
-- 📅 Cycle calendar for tracking menstrual cycles
-- 📝 Symptom logging with date-wise entries
-- 🧠 AI-powered health insights based on logged symptoms
-- 📊 Dashboard with cycle statistics
-- 🌸 Beautiful and responsive user interface
-- 📚 Personalized health article recommendations
+- 📅 Interactive cycle calendar
+- 📝 Daily symptom logging
+- 🧠 Personalized health insights
+- 📊 Dashboard with cycle overview
+- 📚 Health article recommendations
+- 🌸 Clean and responsive UI
 - 📈 Cycle phase visualization
-- 📋 Recent symptom history
+- 📋 Recent activity history
+
+---
+
+# 📸 Screenshots
+
+## Dashboard
+
+![Dashboard](images/dashboard1.png)
+
+---
+
+## Dashboard Analytics
+
+![Dashboard Analytics](images/dashboard2.png)
+
+---
+
+## Cycle Log
+
+![Cycle Log](images/cycle-log.png)
+
+---
+
+## AI Insights
+
+![AI Insights](images/insights.png)
 
 ---
 
@@ -34,17 +62,20 @@ An AI-powered menstrual health tracking web application built using React that h
 - HTML5
 - CSS3
 
-### Tools
+### Version Control
 
 - Git
 - GitHub
+
+### Deployment
+
 - Vercel
 
 ---
 
 # 📂 Project Structure
 
-```
+```text
 src/
 │
 ├── components/
@@ -61,37 +92,44 @@ src/
 
 ---
 
-# 📸 Project Screenshots
+# 🚀 Getting Started
 
-## 🏠 Dashboard
+Clone the repository
 
-![Dashboard](images/dashboard1.png)
+```bash
+git clone https://github.com/sanyuktaraut09/AI-Period-tracker.git
+```
 
-### Dashboard (Continued)
+Navigate into the project
 
-![Dashboard Continued](images/dashboard2.png)
+```bash
+cd AI-Period-tracker
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start the development server
+
+```bash
+npm start
+```
 
 ---
 
-## 📅 Cycle Log
-
-![Cycle Log](images/cycle-log.png)
-
----
-
-## 🧠 AI Insights
-
-![AI Insights](images/insights.png)
-
-# 🔮 Future Improvements
+# 🎯 Future Enhancements
 
 - User authentication
-- Database integration
-- AI chatbot
-- Real-time medical article API
-- Cycle prediction using machine learning
+- Cloud database integration
+- AI-powered health chatbot
+- Real medical article API integration
+- Personalized cycle prediction
 - Email reminders
-- Export reports
+- Data export functionality
+- Mobile application
 
 ---
 
@@ -102,6 +140,10 @@ src/
 GitHub:
 https://github.com/sanyuktaraut09
 
+
+
 ---
 
-## ⭐ If you like this project, don't forget to star the repository!
+## ⭐ Support
+
+If you found this project helpful, consider giving it a ⭐ on GitHub.
