@@ -61,25 +61,27 @@ src/
 
 ---
 
-# 📸 Screenshots
+# 📸 Project Screenshots
 
-## 📸 Dashboard
+## 🏠 Dashboard
 
 ![Dashboard](images/dashboard1.png)
 
-![Dashboard](images/dashboard2.png)
+### Dashboard (Continued)
+
+![Dashboard Continued](images/dashboard2.png)
 
 ---
 
-## 📸 Cycle Log
+## 📅 Cycle Log
 
 ![Cycle Log](images/cycle-log.png)
 
-## 📸 AI Insights
-
-![Insights](images/insights.png)
-
 ---
+
+## 🧠 AI Insights
+
+![AI Insights](images/insights.png)
 
 # 🔮 Future Improvements
 
