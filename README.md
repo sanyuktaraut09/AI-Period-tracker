@@ -6,8 +6,8 @@ A modern menstrual health tracking web application built with **React.js** that 
 
 ## 🔗 Live Demo
 
-🌐 **Website:** [AI_PERIOD_TRACKER]((https://aiperiotracker-git-main-sanyukta1.vercel.app/))
-
+🌐 **Live Website:**  
+[AI Period Tracker](https://aiperiotracker-git-main-sanyukta1.vercel.app/)
 ## 💻 GitHub Repository
 
 https://github.com/sanyuktaraut09/AI-Period-tracker
