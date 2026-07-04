@@ -63,21 +63,21 @@ src/
 
 # 📸 Screenshots
 
-## Dashboard
+## 📸 Dashboard
 
-(Add dashboard screenshot here)
+![Dashboard](images/dashboard1.png)
 
----
-
-## Cycle Log
-
-(Add cycle log screenshot here)
+![Dashboard](images/dashboard2.png)
 
 ---
 
-## AI Insights
+## 📸 Cycle Log
 
-(Add insights screenshot here)
+![Cycle Log](images/cycle-log.png)
+
+## 📸 AI Insights
+
+![Insights](images/insights.png)
 
 ---
 
