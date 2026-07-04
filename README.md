@@ -6,7 +6,7 @@ A modern menstrual health tracking web application built with **React.js** that 
 
 ## 🔗 Live Demo
 
-🌐 **Website:** [YOUR_VERCEL_LINK_HERE](https://vercel.com/sanyukta1/ai_perio_tracker/pA67S8dVdxPd1RdVoDaHiYyTbYQC)
+🌐 **Website:** [WEBSITE](https://vercel.com/sanyukta1/ai_perio_tracker/pA67S8dVdxPd1RdVoDaHiYyTbYQC)
 
 ## 💻 GitHub Repository
 
