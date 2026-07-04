@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-
+/* eslint-disable react-hooks/exhaustive-deps */
 const PHASES = [
   { name: 'Menstrual',  days: '1–5',   color: '#d4537e', width: '18%' },
   { name: 'Follicular', days: '6–13',  color: '#fac775', width: '29%' },
@@ -22,7 +22,7 @@ function InsightPanel({ entries }) {
   const query = latest.symptoms.join(" ");
 
   fetchRecommendations(query);
-}, [entries]);
+}, [entries, fetchRecommendations]);
 
   // ✅ ADD THIS HERE 👇👇👇
   function generateTopics(query) {
@@ -80,13 +80,7 @@ function InsightPanel({ entries }) {
     const d = new Date(dateStr + 'T00:00:00');
     return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
   }
-  function getFallbackUrl(title) {
-  if (!title) return "https://www.healthline.com";
-
-  const query = encodeURIComponent(title);
-
-  return `https://www.google.com/search?q=${query}`;
-}
+  
   return (
     <aside className="insight-panel">
 
